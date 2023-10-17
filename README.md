@@ -1,6 +1,9 @@
 # Redbird Reverse Proxy
 
-## With built-in Cluster, HTTP2, [LetsEncrypt](https://letsencrypt.org/) and [Docker](https://www.docker.com/) support
+This is forked version which intends to keep dependencies updated for a subset of the features the original package provides.
+Currently, docker and etcd support has been removed, due to dependency issues in other dead packages.
+
+## With built-in Cluster
 
 
 ![redbird](http://cliparts.co/cliparts/6cr/o9d/6cro9dRzi.jpg)
